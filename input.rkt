@@ -1,3 +1,6 @@
+;;;proper credit to http://www.neilvandyke.org/racket/charterm/
+;;;The majority of this is his demo code for charterm
+;;;Used it because it provides initial support for input boxes
 #lang racket/base
 (require charterm)
 
